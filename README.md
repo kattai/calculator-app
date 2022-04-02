@@ -17,7 +17,7 @@
 $ git clone <https://github.com/kattai/calculator-app>
 
 # Access the project folder in terminal/cmd
-$ cd music-app
+$ cd calculator-app
 
 # Install the dependencies
 $ npm install
